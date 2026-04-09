@@ -101,7 +101,7 @@ const Projects = () => {
                     <Github size={20} /> Source Code
                   </a>
                   <a href={project.live} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm font-semibold text-blue-500 hover:text-blue-400 transition-colors">
-                    Live Demo <ExternalLink size={20} />
+                   view more <ExternalLink size={20} />
                   </a>
                 </div>
               </div>
