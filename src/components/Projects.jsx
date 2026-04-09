@@ -9,7 +9,7 @@ const Projects = () => {
       title: "My website",
       description: "A full-featured shopping system with real-time sync, secure Firebase authentication, and streamlined checkout.",
       tech: ["React", "Tailwind", "Firebase"],
-      github: "https://github.com/yourusername/ecommerce", // የGitHub ሊንክ እዚህ ይግባ
+      github: "https://github.com/compi19/portfolio", // የGitHub ሊንክ እዚህ ይግባ
       live: "https://melkamu-tech.netlify.app/"    // የዌብሳይቱ ሊንክ እዚህ ይግባ
     },
     {
