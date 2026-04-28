@@ -31,7 +31,7 @@ function App() {
       </main>
 
       <footer className="py-10 text-center text-gray-500 text-sm border-t border-white/5 bg-[#0a0f1a]">
-        <p>© {new Date().getFullYear()} Melkamu Portfolio. All rights reserved.</p>
+        <p>© {new Date().getFullYear()}  All rights reserved.</p>
       </footer>
     </div>
   );
